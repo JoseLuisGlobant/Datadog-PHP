@@ -1,10 +1,10 @@
-#Datadog Custom Instrumentation
+**Datadog Custom Instrumentation**
 
-###1. Install Datadog Agent 
+**1. Install Datadog Agent**
 
 [Install Datadog Agent](https://docs.datadoghq.com/agent/)
 
-###2. Install Datadog extensions for PHP 
+**2. Install Datadog extensions for PHP** 
 
 [PHP Documentation](https://docs.datadoghq.com/tracing/trace_collection/dd_libraries/php/)
 
@@ -19,7 +19,7 @@ Run the installer:
 Once you have downloaded and executed the installer It's needed to restart the services of the Datadog Agent and the service of PHP
 
 
-###3. Custom Instrumentation
+**3. Custom Instrumentation**
 
 This project was created based on the documentation of [PHP custom instrumentation.](https://docs.datadoghq.com/tracing/trace_collection/custom_instrumentation/php?tab=currentspan)
 
