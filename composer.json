@@ -1,0 +1,20 @@
+{
+  "name": "sky-billing/magento",
+  "description": "Magento Billing Project",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "SkyBilling\\App\\": "app/"
+    },
+    "files": [
+      "datadog/instrumentation.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Jose Alfredo Luis Medina",
+      "email": "luismedina216@gmail.com"
+    }
+  ],
+  "require": {}
+}
